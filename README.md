@@ -49,11 +49,11 @@ Frontend: Nextjs, TypeScript, Tailwindcss
 
 TRAVEL_APP/  
 │  
-├── .next/             # Next.js build output directory  
-├── app/               # Core application logic and route management  
-├── components/        # Reusable UI components for a modular architecture  
-├── constants/         # Static values such as configurations and constants    
-└── public/            # Static files (images, fonts, etc.) accessible via root URL  
+├── .next/                    # Next.js build output directory  
+├── app/                      # Core application logic and route management  
+├── components/               # Reusable UI components for a modular architecture  
+├── constants/                # Static values such as configurations and constants    
+└── public/                   # Static files (images, fonts, etc.) accessible via root URL  
 
 
 
