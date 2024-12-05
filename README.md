@@ -6,42 +6,42 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Welcome to Wanderlust Explorer, a beautifully designed web application for travel enthusiasts to discover, plan, and explore the world of camps and travel destinations. This project showcases advanced design, architecture, and functionality with a focus on user experience, scalability, and code reusability.
 
 
-# 🌟 Features
+## 🌟 Features
 
-# 🎨 Appealing Hero Section
+## 🎨 Appealing Hero Section
 A visually striking hero section designed to captivate users and set an inviting tone for the entire platform.
 Responsive design ensures seamless display across devices.
 
-# 🏞️ Camp Exploration Section
+## 🏞️ Camp Exploration Section
 A dedicated section for browsing and exploring camps with detailed filters and options.
 Enhanced with dynamic data rendering and visually rich elements for an immersive experience.
 
-# 📚 Engaging Travel Guide Section
+## 📚 Engaging Travel Guide Section
 Travel guide section featuring well-structured content, beautiful visuals, and practical advice for explorers.
 Designed with attention to readability and aesthetics to keep users engaged.
 
-# ⚙️ Feature-Rich Section
+## ⚙️ Feature-Rich Section
 Advanced functionalities integrated into this section:
 Interactive maps to locate camps.
 User reviews and ratings for better decision-making.
 Dynamic, reusable components for scalability.
 
-# 📱 Call to Action for Mobile Apps
+## 📱 Call to Action for Mobile Apps
 A dedicated CTA section encouraging users to download the app for iOS and Android.
 Buttons linked directly to App Store and Google Play for ease of access.
 
-# 🔗 Footer
+## 🔗 Footer
 A comprehensive footer containing essential links, social media icons, and copyright information.
 Ensures smooth navigation and connectivity with the platform.
 
-# 🛠️ Code Architecture
+## 🛠️ Code Architecture
 
-# 🔑 Key Principles
+## 🔑 Key Principles
 Reusability: Modular and reusable components built with a component-driven approach.
 Scalability: Well-structured folders and clean code to accommodate future expansions.
 Performance: Optimized code for fast load times and smooth user interactions.
 
-# 🚀 Technologies Used
+## 🚀 Technologies Used
 
 Frontend: Nextjs, TypeScript, Tailwindcss
 
@@ -57,7 +57,7 @@ TRAVEL_APP/
 
 
 
-# 🎯 Why This Project?
+## 🎯 Why This Project?
 
 This project highlights my expertise in:
 
@@ -66,7 +66,7 @@ Problem-Solving: Designing complex features and solving technical challenges eff
 Attention to Detail: Crafting a polished UI/UX that enhances user experience.
 
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
